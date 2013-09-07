@@ -1,0 +1,16 @@
+target/
+.idea/workspace.xml
+.idea/tasks.xml
+*.class
+*.log
+*.log.*
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.war
+*.ear
+*.rar
+*.tar
+*.zip
